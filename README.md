@@ -16,9 +16,10 @@ Automatically clears WooCommerce cart and session data at customizable intervals
 ## 📁 Installation
 
 1. Download the plugin ZIP file.
-2. Go to **Plugins → Add New** in your WordPress dashboard.
-3. Click **Upload Plugin** and select the ZIP file.
-4. Install and activate the plugin.
+2. Extract the ZIP file Rename the folder from **woocommerce-auto-clear-cart-main** to **woocommerce-auto-clear-cart** and ZIP the folder.
+3. Go to **Plugins → Add New** in your WordPress dashboard.
+4. Click **Upload Plugin** and select the ZIP file.
+5. Install and activate the plugin.
 
 ## ⚙️ Settings
 
